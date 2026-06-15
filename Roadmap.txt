@@ -1,0 +1,23 @@
+RoadMap
+---------
+AI ENGINEER - MID(DATA SCIENTIST, SOFTWARE ENGINEER)
+FUNDAMENTALS: MATH, PYTHON, CORE DSA 
+
+Math: Vectors, Matrices, Calculus, Probability, Linear Algebra, Discrete Mathematics 
+Python: OOPS, Functions, Loops, Conditionals, Variables, Scopes, ML Stuff, Frameworks, REST APIs, Integrations, Sockets, Closures, Decorators
+DSA: Data Structures, Algorithms 
+
+
+Data Science:
+1. Dealing with data (clean, preprocess, analyze, pipelines, python libraries - numpy, pandas, regex, OpenCV, seaborn, matplotlib)
+2. Machine Learning (Supervised , Unsupervised, Reinforcement Learning (Penalties, Rewards)) 
+3. Regression, Classification, Decision trees, SVM, Clustering, Reinforcement Learning (Scikit Learn)
+4. Deep Learning - Neural Networks, ANN, CNN, RNN, GAN (Back Propagation, Forward Propagation)
+5. LLMs - (ChatGPT, Gemini, LLAMA) - NLP + GEN AI
+	(Sentiment Analysis, Semantic Analysis)
+	(Textual, Various Media generation)
+
+Git, Github, Git Actions, CI/CD, Jenkins
+Kaggle Datasets
+
+ 
