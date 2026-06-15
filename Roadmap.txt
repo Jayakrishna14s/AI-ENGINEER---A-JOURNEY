@@ -17,7 +17,13 @@ Data Science:
 	(Sentiment Analysis, Semantic Analysis)
 	(Textual, Various Media generation)
 
-Git, Github, Git Actions, CI/CD, Jenkins
+Git, Github, Git Actions, CI/CD, Jenkins, DevOps, Containerization, Docker 
 Kaggle Datasets
 
- 
+Important: Scikit Learn, Keras, PyTorch (Academic focused) , TensorFlow (Industry based) 
+Deployment platforms: GCP, AWS, RENDER, DIGITAL OCEAN
+
+Hugging Face, NLP, Transformers
+Generator, Discrimator (GAN)
+
+Python, AI, Gen AI, ML, MLops, Deployment, DevOps, DevSecOps, Automation, Agentic AI, Vector DBs, Pipelines, LLMs
