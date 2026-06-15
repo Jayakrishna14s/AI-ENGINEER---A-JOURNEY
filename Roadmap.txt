@@ -27,3 +27,75 @@ Hugging Face, NLP, Transformers
 Generator, Discrimator (GAN)
 
 Python, AI, Gen AI, ML, MLops, Deployment, DevOps, DevSecOps, Automation, Agentic AI, Vector DBs, Pipelines, LLMs
+
+
+✅ AI Engineer (Core ML + DL + LLMs)
+✅ Data Scientist (Data handling + modeling)
+✅ Software Engineer (Python + DSA + APIs)
+✅ MLOps / DevOps (CI/CD, Docker, deployment)
+
+Frontend - React, Angular
+Backend - FASTAPI, FLASK, API DESIGN, AUTHENTICATION, DJANGO
+AI PRODUCT LAYER - PROMPT ENGINEERING, RAG SYSTEMS, AGENTIC AI
+
+ROADMAP ---> 	AI ENGINEER + MLOps + AI FULL STACK 
+
+Python → ML → LLMs → RAG → FastAPI → Docker → Deployment
+
+🟢 Foundations
+
+Python (OOP, functions, APIs)
+Basic Math (Linear Algebra, Probability)
+DSA (arrays, strings, recursion)
+
+
+🟡 Data Science & ML
+
+NumPy, Pandas, Visualization
+Data cleaning & preprocessing
+Machine Learning (Regression, Classification, Clustering)
+Scikit-learn
+
+
+🔵 Deep Learning
+
+Neural Networks (ANN, CNN, RNN)
+Backpropagation
+PyTorch / TensorFlow
+
+
+🟣 Generative AI (Core)
+
+Transformers (Attention, embeddings)
+LLMs (GPT, LLaMA, Gemini)
+Prompt Engineering
+Hugging Face
+
+
+🔴 Advanced AI (High Demand)
+
+RAG (Retrieval-Augmented Generation)
+Vector DB (FAISS, Pinecone)
+Agentic AI (LangChain, CrewAI)
+Automation workflows
+
+
+⚙️ Backend & Integration
+
+FastAPI / Flask
+REST APIs
+Model integration
+
+
+🚀 Deployment & MLOps
+
+Git, GitHub
+Docker
+CI/CD (GitHub Actions)
+Cloud (AWS, GCP, Render)
+
+
+🌐 (Optional) Full Stack AI
+
+JavaScript, React (for UI)
+Build end-to-end AI apps
