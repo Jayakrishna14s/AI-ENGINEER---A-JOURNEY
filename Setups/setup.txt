@@ -5,4 +5,4 @@ Notebook
 3. Registering venv as kernel 
     cmd: python -m ipykernel install --user --name ai-workspace --display-name "AI Workspace (venv)"
 4. Select jupyter kernel 
-5. Happy coding!.... 
+5. Happy coding!..
