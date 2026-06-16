@@ -1,0 +1,19 @@
+Python
+  ↓
+AI & ML Basics
+  ↓
+Deep Learning + LLMs
+  ↓
+Build small AI apps
+  ↓
+RAG systems
+  ↓
+AI Agents concepts
+  ↓
+Agent frameworks (LangChain, CrewAI)
+  ↓
+Build projects
+  ↓
+Deploy
+  ↓
+Advanced systems
