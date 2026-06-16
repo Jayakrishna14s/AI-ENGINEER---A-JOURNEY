@@ -17,3 +17,30 @@ Build projects
 Deploy
   ↓
 Advanced systems
+
+
+Python Basics
+Python Libraries (NumPy, Pandas, Matplotlib)
+AI vs Machine Learning vs Deep Learning
+Basics of Machine Learning
+Model Evaluation
+Neural Networks Basics
+Transformers & LLMs
+Prompt Engineering
+AI APIs (OpenAI, Hugging Face, etc.)
+Build Simple AI Apps
+Embeddings
+Vector Databases
+RAG (Retrieval-Augmented Generation)
+What is an AI Agent
+Agent Components (Tools, Memory, Planning)
+Agent Design Patterns
+LangChain / LangGraph
+CrewAI / AutoGen
+Single AI Agent Projects
+Multi-Agent Systems
+Backend APIs (FastAPI / Flask)
+Deployment (Cloud, Docker)
+Monitoring & Evaluation
+Agent Memory Systems
+Multi-Agent Communication & Optimization
