@@ -1,0 +1,8 @@
+Notebook
+--------
+1. requirements --> notebook, ipykernel
+2. Run the venv in the current path
+3. Registering venv as kernel 
+    cmd: python -m ipykernel install --user --name ai-workspace --display-name "AI Workspace (venv)"
+4. Select jupyter kernel 
+5. Happy coding!.... 
